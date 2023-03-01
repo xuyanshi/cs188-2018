@@ -1,6 +1,9 @@
 # cs188-2018
 UCB CS 188 | Introduction to Artificial Intelligence Fall 2018
 
+- Start Date:  TODO
+- End Date:
+
 [Course Homepage](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
 
 [Gradescope](https://www.gradescope.com/courses/33660)
